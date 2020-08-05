@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MultiplyTwoFloatingPoint_DaileyKyle07152020/1.0.0": {
+        "runtime": {
+          "MultiplyTwoFloatingPoint_DaileyKyle07152020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiplyTwoFloatingPoint_DaileyKyle07152020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
