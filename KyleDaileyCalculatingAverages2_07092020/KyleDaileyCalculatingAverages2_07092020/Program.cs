@@ -1,4 +1,3 @@
-﻿//Class:  ERAU ISTA220 Programming Fundamentals
 //Student:  Kyle Dailey
 //Date:  07/09/2020
 //References:  w3schools, w3resource, Microsoft Visual C# Step by Step
