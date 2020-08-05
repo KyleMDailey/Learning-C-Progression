@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WriteYourOwnProgram_DaileyKyle07312020/1.0.0": {
+        "runtime": {
+          "WriteYourOwnProgram_DaileyKyle07312020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WriteYourOwnProgram_DaileyKyle07312020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
