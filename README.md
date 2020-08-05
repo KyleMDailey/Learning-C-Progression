@@ -9,6 +9,6 @@ Primary IDE used:
 Visual Studio 2019 Community Edition
 
 The primary references and sources of these projects are:
-w3schools.com
-docs.microsoft.com
+w3schools.com,
+docs.microsoft.com,
 Sharp, John. Microsoft Visual C# Step by Step (Ninth Edition) 
