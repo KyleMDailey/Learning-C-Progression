@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AddIntegers_DaileyKyle07152020/1.0.0": {
+        "runtime": {
+          "AddIntegers_DaileyKyle07152020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddIntegers_DaileyKyle07152020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
