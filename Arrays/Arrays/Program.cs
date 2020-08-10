@@ -77,16 +77,43 @@ namespace Arrays
 
 
             //Practice
-            int[] evenNums = { 2, 4, 6, 8, 10 };
-            string[] cities = { "Chicago", "Beecher", "Crete " };
+            //int[] evenNums = { 2, 4, 6, 8, 10 };
+            //string[] cities = { "Chicago", "Beecher", "Crete " };
             
-            foreach (var item in evenNums)
-            Console.WriteLine(item);
+            //foreach (var item in evenNums)
+            //Console.WriteLine(item);
 
-            foreach (var city in cities)
-            Console.WriteLine(city);
-            Console.ReadLine();
+            //foreach (var city in cities)
+            //Console.WriteLine(city);
+            //Console.ReadLine();
         }
+        try
+            {
+                //Sorting.
+                int[] evenNums = { 6, 3, 7, 8, 1 };
+                string[] cities = new string[3] { "Fayetteville", "Broadway", "Sanford" };
+                Array.Sort(cities);
+                Array.Sort(evenNums);
+                //Sorting cities alphabetically.
+                Console.WriteLine(cities[0]);
+                Console.WriteLine(cities[1]);
+                Console.WriteLine(cities[2]);
+                //Sorting numbers alphanumerically.
+                Console.WriteLine(evenNums[0]);
+                Console.WriteLine(evenNums[1]);
+                Console.WriteLine(evenNums[2]);
+                Console.WriteLine(evenNums[3]);
+                Console.WriteLine(evenNums[4]);
+                Console.ReadLine();
+            }
+            catch
+            {
+                //Put your errors here.  Define your exceptions etc.
+            }
+            finally
+            {
+                //The code that always executes.
+            }
     }
 }
  
